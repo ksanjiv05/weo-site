@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ksanjiv05/weo-site#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "greenlock-express": "^4.0.3"
   }
 }
